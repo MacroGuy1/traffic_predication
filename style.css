@@ -15,7 +15,8 @@ $color-form-highlight: #EEEEEE;
 body{
     font-family: Helvetica;
     -webkit-font-smoothing: antialiased;
-    
+    items-align:center;
+    content-align:center;
 }
 h2{
     text-align: center;
